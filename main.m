@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 NSString *deskName() {
-  return @"Jeremy";
+  return @"Dog";
 }
 
 float areaOfDesk(float width, float height) {
