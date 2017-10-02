@@ -7,5 +7,5 @@ float areaOfDesk(float width, float height) {
 
 int main() {
 
-  return 0;
+  return 1;
 }
